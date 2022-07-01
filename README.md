@@ -4,4 +4,4 @@
 [картинки](https://github.com/katiebarkun3/SFML-EDIBLE-INEDIBLE-FINAL-VERSION-2022-IMAGES)
 
 [Иванов Ярослав](https://github.com/bomgara228/the-end.)
-[Цвирко Анастасия]()
+[Цвирко Анастасия](https://github.com/Tsvirko-Nastya2007/tanks-final)
