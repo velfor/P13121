@@ -7,4 +7,4 @@
 [Иванов Ярослав](https://github.com/bomgara228/the-end.)<br/>
 [Цвирко Анастасия](https://github.com/Tsvirko-Nastya2007/tanks-final)<br/>
 [Баслык Карина](https://github.com/karrina867/sea-race_1)<br/>
-[Плоткин Роман + Апарович Матвей](https://github.com/romanpltk/dino17.06)<br/>
+[Плоткин Роман + Апарович Матвей](https://github.com/Matwey2005/ProjectDino)<br/>
